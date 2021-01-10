@@ -1,0 +1,7 @@
+Jar 파일 생성 방법
+
+1 콘솔에서 해당 하는 프로젝트 폴더로 이동
+2 ./gradlew build
+3 cd build/libs
+4 java -jar 자르파일명.jar 
+5 실행확인
